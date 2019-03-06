@@ -5,11 +5,14 @@
 Below are some of the personal projects that I found interesting to work on:
 
 ## 1. Netflix-movie-recommendation
-Objectives: 
-1. Predict the rating that a user would give to a movie that he has not yet rated. 
-2. Minimize the difference between predicted and actual rating (RMSE and MAPE)
+Problem Statement:
 
-Constraints: Model should have some form of interpretability.
+    1. Predict the rating that a user would give to a movie that he has not yet rated. 
+    2. Minimize the difference between predicted and actual rating (RMSE and MAPE)
+    
+Constraints:
+
+    Model should have some form of interpretability.
 
 [ProjectLink](https://github.com/sanjayuconn/Netflix-movie-recommendation)
 
