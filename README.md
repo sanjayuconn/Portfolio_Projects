@@ -10,6 +10,7 @@ Objectives:
 2. Minimize the difference between predicted and actual rating (RMSE and MAPE)
 
 Constraints: Some form of interpretability.
+
 Link: https://github.com/sanjayuconn/Netflix-movie-recommendation
 
 ## 2. Quora-question-pair-similarity
