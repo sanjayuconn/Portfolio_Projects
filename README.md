@@ -65,3 +65,21 @@ Objectives:
 
 [ProjectLink](https://github.com/sanjayuconn/Human-Activity-Recognition)
 
+## 6. Stack Overflow: Tag Prediction
+Problem Statement:
+
+    Stack Overflow is the largest, most trusted online community for developers to learn, share their programming knowledge, and build their careers.
+    Suggest the tags based on the content that was there in the question posted on Stackoverflow. 
+    
+Objectives:
+
+    
+    Predict as many tags as possible with high precision and recall.
+    Incorrect tags could impact customer experience on StackOverflow.
+    No strict latency constraints.
+
+
+[ProjectLink](https://github.com/sanjayuconn/StackOverflow-tag-prediction)
+
+
+
