@@ -26,6 +26,8 @@ Constraints:
     You would want a probability of a pair of questions to be duplicates so that you can choose any threshold of choice.
     No strict latency concerns.
     Interpretability is partially important.
+    
+[Link](https://github.com/sanjayuconn/Quora-question-pair-similarity)
 Link: https://github.com/sanjayuconn/Quora-question-pair-similarity
 
 ## 3. Facebook-Friend-Recommendation
