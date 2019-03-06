@@ -11,7 +11,7 @@ Objectives:
 
 Constraints: Some form of interpretability.
 
-Link: https://github.com/sanjayuconn/Netflix-movie-recommendation
+[ProjectLink](https://github.com/sanjayuconn/Netflix-movie-recommendation)
 
 ## 2. Quora-question-pair-similarity
 Problem Statement:
@@ -40,7 +40,7 @@ Constraints:
     No low-latency requirement.
     Probability of prediction is useful to recommend ighest probability links
 
-Link: https://github.com/sanjayuconn/Facebook-Friend-Recommendation-System
+[ProjectLink](https://github.com/sanjayuconn/Facebook-Friend-Recommendation-System)
 
 ## 4. UBER-Taxi-demand-prediction
 Problem Statement:
@@ -52,5 +52,5 @@ Performance metrics:
     Mean Absolute percentage error.
     Mean Squared error.
 
-Link: https://github.com/sanjayuconn/UBER-Taxi-demand-prediction
+[ProjectLink](https://github.com/sanjayuconn/UBER-Taxi-demand-prediction)
 
