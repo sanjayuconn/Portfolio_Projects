@@ -82,4 +82,15 @@ Objectives:
 [ProjectLink](https://github.com/sanjayuconn/StackOverflow-tag-prediction)
 
 
+## 7. Amazon Fine Food Reviews Analysis
+Problem Statement:
+
+    The Amazon Fine Food Reviews dataset consists of text reviews of fine foods from Amazon. 
+    
+Objectives:
+
+    
+    Given a review, determine whether the review is positive (Rating of 4 or 5) or negative (rating of 1 or 2).
+
+[ProjectLink](https://github.com/sanjayuconn/Amazon-Fine-Food-Reviews)
 
