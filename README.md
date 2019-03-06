@@ -19,6 +19,7 @@ Problem Statement:
     Identify which questions asked on Quora are duplicates of questions that have already been asked.
     This could be useful to instantly provide answers to questions that have already been answered.
     We are tasked with predicting whether a pair of questions are duplicates or not.
+    
 Constraints:
 
     The cost of a mis-classification can be very high.
@@ -31,6 +32,7 @@ Link: https://github.com/sanjayuconn/Quora-question-pair-similarity
 Problem Statement:
 
     Given a directed social graph, have to predict missing links to recommend users (Link Prediction in graph).
+    
 Constraints:
 
     
@@ -43,6 +45,7 @@ Link: https://github.com/sanjayuconn/Facebook-Friend-Recommendation-System
 Problem Statement:
 
     To find number of pickups, given location cordinates(latitude and longitude) and time, in the query reigion and surrounding regions.
+    
 Performance metrics:
 
     Mean Absolute percentage error.
