@@ -27,5 +27,26 @@ Constraints:
     Interpretability is partially important.
 Link: https://github.com/sanjayuconn/Quora-question-pair-similarity
 
+## 3. Facebook-Friend-Recommendation
+Problem Statement:
 
+    Given a directed social graph, have to predict missing links to recommend users (Link Prediction in graph).
+Constraints:
+
+    
+    No low-latency requirement.
+    Probability of prediction is useful to recommend ighest probability links
+
+Link: https://github.com/sanjayuconn/Facebook-Friend-Recommendation-System
+
+## 4. UBER-Taxi-demand-prediction
+Problem Statement:
+
+    To find number of pickups, given location cordinates(latitude and longitude) and time, in the query reigion and surrounding regions.
+Performance metrics:
+
+    Mean Absolute percentage error.
+    Mean Squared error.
+
+Link: https://github.com/sanjayuconn/UBER-Taxi-demand-prediction
 
