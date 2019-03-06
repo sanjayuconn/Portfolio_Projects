@@ -1,8 +1,8 @@
-## Hi, I am sanjay
-### I'm ML Engineer/Scientist passionate about solving business problems using AI/ML. 
+## ABOUT ME 
+       Hi, I am sanjay, ML Engineer/Scientist passionate about solving business problems using AI/ML. 
 
-# WORK PORTFOLIO
-The following are some of the projects that I have been working on.
+## WORK PORTFOLIO
+The following are some of the projects that I have been working on as a personal projects.
 
 ## 1. Netflix-movie-recommendation
 Objectives: 
