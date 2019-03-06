@@ -38,14 +38,14 @@ Constraints:
 
     
     No low-latency requirement.
-    Probability of prediction is useful to recommend ighest probability links
+    Probability of prediction is useful to recommend highest probability links
 
 [ProjectLink](https://github.com/sanjayuconn/Facebook-Friend-Recommendation-System)
 
 ## 4. UBER-Taxi-demand-prediction
 Problem Statement:
 
-    To find number of pickups, given location cordinates(latitude and longitude) and time, in the query reigion and surrounding regions.
+    To find number of pickups, given location cordinates(latitude and longitude) and time, in the query region and surrounding regions.
     
 Performance metrics:
 
