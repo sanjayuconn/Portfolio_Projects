@@ -5,7 +5,8 @@
 The following are some of the projects that I have been working on.
 
 ## 1. Netflix-movie-recommendation
-Objectives: 1. Predict the rating that a user would give to a movie that he has not yet rated. 
+Objectives: 
+1. Predict the rating that a user would give to a movie that he has not yet rated. 
 2. Minimize the difference between predicted and actual rating (RMSE and MAPE)
 
 Constraints: Some form of interpretability.
