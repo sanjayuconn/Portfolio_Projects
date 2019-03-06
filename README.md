@@ -27,7 +27,7 @@ Constraints:
     No strict latency concerns.
     Interpretability is partially important.
     
-[Project Link] (https://github.com/sanjayuconn/Quora-question-pair-similarity)
+[ProjectLink](https://github.com/sanjayuconn/Quora-question-pair-similarity)
 
 ## 3. Facebook-Friend-Recommendation
 Problem Statement:
