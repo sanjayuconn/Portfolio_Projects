@@ -54,3 +54,14 @@ Performance metrics:
 
 [ProjectLink](https://github.com/sanjayuconn/UBER-Taxi-demand-prediction)
 
+## 5. Human-Activity-Recognition
+Problem Statement:
+
+    This project is to build a model that predicts the human activities such as Walking, Walking_Upstairs, Walking_Downstairs, Sitting, Standing or Laying.This dataset is collected from 30 persons(referred as subjects in this dataset), performing different activities with a smartphone to their waists. The data is recorded with the help of sensors (accelerometer and Gyroscope) in that smartphone. This experiment was video recorded to label the data manually.
+    
+Objectives:
+
+    Given a new datapoint we have to predict the Activity
+
+[ProjectLink](https://github.com/sanjayuconn/Human-Activity-Recognition)
+
