@@ -1,5 +1,5 @@
 ## ABOUT ME 
-       Hi, I'm Sanjay, ML Engineer/Scientist passionate about solving business problems using AI/ML. 
+       Hi, I'm Sanjay, Machine Learning Scientist passionate about solving business problems using AI/ML. 
 
 ## WORK PORTFOLIO
 Below are some of the personal projects that I found interesting to work on:
